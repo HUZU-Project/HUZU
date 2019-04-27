@@ -133,3 +133,6 @@ cmake-build-debug
 db-4.8.30.NC.tar.gz
 db-4.8.30.NC/
 db4/
+
+#vs code
+.vscode/
